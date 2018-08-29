@@ -1,0 +1,21 @@
+body {
+    background-color: #767DE4;
+    margin-left: 2em;
+    height: 60px;
+}
+/*
+#76DE4
+*/
+.BlogTabla {
+    color: blue;
+    background:whitesmoke;
+    padding: 2em;
+    border-style: solid;
+    border-color: black;
+}
+
+i{
+    font-size: 50px;
+    border-style: solid;
+    border-radius: 35px 0px 35px 0px;
+}
